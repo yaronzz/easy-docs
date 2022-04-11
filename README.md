@@ -23,20 +23,20 @@ pip3 install easy-docs --upgrade
 
 1. 初始化文档
 ```shell
-easydocs -i 
+easy-docs -i 
 ```
 
 2. 测试文档网页
 ```shell
-easydocs -s
+easy-docs -s
 ```
 
 3. 更新目录
 ```shell
-easydocs -u
+easy-docs -u
 
 #更新目录，不包含tmp目录
-easydocs -u -r ./tmp/
+easy-docs -u -r ./tmp/
 ```
 
 
