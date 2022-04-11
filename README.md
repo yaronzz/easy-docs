@@ -42,7 +42,7 @@ easydoc -u -r ./tmp/
 
 4. 修改文档网页
 
-打开目录下生成的`index.html`，根据[docsify官方文档](https://docsify.js.org/#/zh-cn/configuration)配置自己的网页
+    打开目录下生成的`index.html`，根据[docsify官方文档](https://docsify.js.org/#/zh-cn/configuration)配置自己的网页
 
 ## 🎨库与引用
 
