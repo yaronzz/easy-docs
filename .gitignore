@@ -1,0 +1,5 @@
+/build
+/dist
+/easy_docs.egg-info
+/test
+/up.sh
