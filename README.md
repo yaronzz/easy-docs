@@ -4,7 +4,7 @@
 ## 📺 安装 
 需要 Python 版本大于或等于 3.7
 ```shell
-pip3 install easydoc --upgrade
+pip3 install easy-docs --upgrade
 ```
 
 ## 🤖 功能
@@ -23,20 +23,20 @@ pip3 install easydoc --upgrade
 
 1. 初始化文档
 ```shell
-easydoc -i 
+easydocs -i 
 ```
 
 2. 测试文档网页
 ```shell
-easydoc -s
+easydocs -s
 ```
 
 3. 更新目录
 ```shell
-easydoc -u
+easydocs -u
 
 #更新目录，不包含tmp目录
-easydoc -u -r ./tmp/
+easydocs -u -r ./tmp/
 ```
 
 
